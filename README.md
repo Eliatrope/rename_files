@@ -1,5 +1,6 @@
 # rename_files
 Rename your files not easily.
+/!\AFTER DOWNLOADING, DON'T FORGET TO CREATE A REPO images AT ROOT.
 
 I created this shitty tool for a summer job. I had to rename a bunch of files and I didn't want to do it one by one. So I developed this lil thing to help me. You'll find the original file in this repo (index.php) with a lot of annoying parameters (like min/max attributes on input) but feel free to change them.
 
